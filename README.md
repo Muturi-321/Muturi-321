@@ -1,15 +1,13 @@
 # Hi there, I'm Emmanuel Muturi! 👋
 
-![11602236_21004063](https://github.com/user-attachments/assets/158edb62-ba06-40a6-9269-47bb3cc07d04)
-
 ## About Me 🚀
 
 I'm a passionate creating beautiful designs with experience in HTML, CSS and JavaScript. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **version control with Git and Github**
-- 🌍 Languages: **HTML, CSS**
+- 🌍 Languages: **HTML, CSS, JavaScript**
 - 📫 How to reach me: **emmanuel.muturi08@gmail.com**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **I love doing new things**
 
 ## My Skills 🧠
 
