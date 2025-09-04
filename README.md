@@ -1,6 +1,6 @@
 # Hi there, I'm Emmanuel Muturi! 👋
 
-![11602236_21004063](https://github.com/user-attachments/assets/158edb62-ba06-40a6-9269-47bb3cc07d04)
+![11602236_21004063]()
 
 ## About Me 🚀
 
