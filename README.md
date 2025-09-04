@@ -1,6 +1,5 @@
 # Hi there, I'm Emmanuel Muturi! 👋
 
-![11602236_21004063]()
 
 ## About Me 🚀
 
